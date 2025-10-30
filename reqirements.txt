@@ -1,0 +1,4 @@
+streamlist
+numpy
+matpolotlib
+plotly
